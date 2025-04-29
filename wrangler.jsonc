@@ -16,9 +16,9 @@
     ],
     "secrets_store_secrets": [
         {
-            "store_id": "MY_STORE_ID",
+            "store_id": "1969478d7a0a430c97e57fe9eae97d57",
             "binding": "SECRET",
-            "secret_name": "MY_SECRET_NAME"
+            "secret_name": "RestD1"
         }
     ],
 	"observability": {
